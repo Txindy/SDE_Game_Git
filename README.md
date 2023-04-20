@@ -7,3 +7,6 @@ WASD - Movement
 Space Bar - Jump
 Lctrl - Crouch
 Q - Equip/Unnequip Weapon
+RMB - Aim
+
+Working on crouch aiming
