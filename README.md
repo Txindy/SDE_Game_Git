@@ -8,5 +8,17 @@ Space Bar - Jump
 Lctrl - Crouch
 Q - Equip/Unnequip Weapon
 RMB - Aim
+E - Use/Pickup
 
-Working on crouch aiming
+Iventory System 0.1
+
+DataBase Created/Populated
+BP for Spawn Weapons
+Debug Button
+
+Working 
+
+UI Widget 
+Add Images to UI
+Equip through UI
+
