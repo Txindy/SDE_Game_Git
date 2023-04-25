@@ -22,12 +22,15 @@ Enter - Menu Equip V0.1
 ###Iventory System V0.15###
 
 DataBase Created/Populated
+
 BP for Spawn Weapons
+
 Debug Button
 
 ###Working###
 
 UI Widget 
 Add Images to UI
+ 
 Equip through UI
 
