@@ -27,10 +27,11 @@ BP for Spawn Weapons
 
 Debug Button
 
-###Working###
+UI Widget
 
-UI Widget 
 Add Images to UI
+
+###Working on###
  
 Equip through UI
 
