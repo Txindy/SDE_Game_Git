@@ -19,7 +19,7 @@ E - Use/Pickup
 Enter - Menu Equip V0.1
 
 
-###Iventory System V0.15###
+###Iventory System V0.2###
 
 DataBase Created/Populated
 
@@ -33,11 +33,12 @@ Add Images to UI
 
 Assigning Slots To Equipment Slot
 
-Equip Weapon on Slot
+Equip Weapon on Slot and char
+
+Finished System
 
 ###Working on###
 
-troubleshoot and finish intentory/equip System
-
+Squashing 1 Bug
 
 
