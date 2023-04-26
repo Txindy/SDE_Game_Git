@@ -31,10 +31,13 @@ UI Widget
 
 Add Images to UI
 
-###Working on###
- 
 Assigning Slots To Equipment Slot
 
 Equip Weapon on Slot
+
+###Working on###
+
+troubleshoot and finish intentory/equip System
+
 
 
