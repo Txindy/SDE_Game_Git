@@ -33,5 +33,8 @@ Add Images to UI
 
 ###Working on###
  
-Equip through UI
+Assigning Slots To Equipment Slot
+
+Equip Weapon on Slot
+
 
