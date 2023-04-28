@@ -25,9 +25,7 @@ DataBase Created/Populated
 
 BP for Spawn Weapons
 
-Debug Button
-
-UI Widget
+Equip Menu Widget created
 
 Add Images to UI
 
@@ -37,9 +35,8 @@ Equip Weapon on Slot and char
 
 Finished System
 
-###Working on###
+##############Working on##############
 
-Squashing 1 Bug
 
 ###Starting player UI####
 
