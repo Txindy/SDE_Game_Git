@@ -35,9 +35,18 @@ Equip Weapon on Slot and char
 
 Finished System
 
-##############Working on##############
-
 
 ###Starting player UI####
 
+Created Player basic HUD
 
+Health / Stamina Bars
+
+
+###### Working on######
+
+Level / Xp
+
+###Sounds###
+
+Footsetps
