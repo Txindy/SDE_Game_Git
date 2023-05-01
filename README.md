@@ -33,20 +33,50 @@ Assigning Slots To Equipment Slot
 
 Equip Weapon on Slot and char
 
-Finished System
 
-
-###Starting player UI####
+###Player HUD####
 
 Created Player basic HUD
 
-Health / Stamina Bars
+Health / Stamina Bars info updates and shows on screen
+
+Level and XP HUD info updates and shows on screen
+
 
 
 ###### Working on######
 
-Level / Xp
-
 ###Sounds###
 
 Footsetps
+
+Lv Up
+
+
+###Enemies###
+
+Add Enemies
+
+#Add Basic AI#
+
+Add Patrol
+
+Add Sight
+
+Add Hearing
+
+Add Ability to Attack
+
+
+###Cleanup and trimming###
+
+Fire Weapons
+
+Animation Sprint
+
+Upgrade Player HUD
+
+Upgrade Menus
+
+Add Weapon images to Equip Menu
+
