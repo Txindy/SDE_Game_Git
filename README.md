@@ -43,12 +43,13 @@ Health / Stamina Bars info updates and shows on screen
 Level and XP HUD info updates and shows on screen
 
 
+###Sounds###
+
+Footsetps
 
 ###### Working on######
 
 ###Sounds###
-
-Footsetps
 
 Lv Up
 
@@ -70,6 +71,8 @@ Add Ability to Attack
 
 ###Cleanup and trimming###
 
+Weapon On Hands
+
 Fire Weapons
 
 Animation Sprint
@@ -79,4 +82,6 @@ Upgrade Player HUD
 Upgrade Menus
 
 Add Weapon images to Equip Menu
+
+Footsteps Sync
 
