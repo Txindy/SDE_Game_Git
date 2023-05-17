@@ -19,7 +19,7 @@ E - Use/Pickup
 Enter - Menu Equip V0.1
 
 
-###Iventory System V0.2###
+###Inventory System V0.2###
 
 DataBase Created/Populated
 
@@ -47,26 +47,27 @@ Level and XP HUD info updates and shows on screen
 
 Footsetps
 
-###### Working on######
 
 ###Sounds###
 
 Lv Up
 
+Firing
+
+Steps
+
 
 ###Enemies###
 
-Add Enemies
+Added Enemies
 
-#Add Basic AI#
+#Added Basic AI#
 
-Add Patrol
+Added Patrol
 
-Add Sight
+Added Sight
 
-Add Hearing
-
-Add Ability to Attack
+Added Hearing
 
 
 ###Cleanup and trimming###
