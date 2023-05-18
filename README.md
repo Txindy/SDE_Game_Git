@@ -61,13 +61,17 @@ Steps
 
 Added Enemies
 
+Stactic,Random Point Patrol,Path Following
+
 #Added Basic AI#
 
-Added Patrol
+Added Random Point Patrol
 
 Added Sight
 
 Added Hearing
+
+Added Path Point Patrol
 
 
 ###Cleanup and trimming###
@@ -84,5 +88,5 @@ Upgrade Menus
 
 Add Weapon images to Equip Menu
 
-Footsteps Sync
+
 
